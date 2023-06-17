@@ -1,6 +1,6 @@
 # Hi!
 
-15, vi_VN, expertise in Android, iOS things
+15, vi_VN, Android, iOS enthuiast
 
 I mainly mess with hardware or software so my Github repo is mostly empty.
 
