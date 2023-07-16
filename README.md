@@ -4,5 +4,5 @@
 
 I mainly mess with hardware or software so my Github repo is mostly empty.
 
-[**« Contact »**](https://netzty.github.io)
+[**« Contact »**](https://netzsworth.github.io)
 
